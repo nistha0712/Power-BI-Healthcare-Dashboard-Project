@@ -55,13 +55,13 @@ Time-Based Waitlist Trends
 <br><br>
 <h2>SUMMARY</h2>
 
-<img width="1246" height="706" alt="image" src="https://github.com/user-attachments/assets/7503a19d-d048-4d81-aa78-2c922c6e76bb" />
+<img width="1143" height="636" alt="image" src="https://github.com/user-attachments/assets/3fa92329-30b1-4a7a-8db1-d4ebdbc65ce7" />
+
 <br><br>
 
 <h2>DETAIL VIEW</h2>
 
-<img width="1238" height="690" alt="image" src="https://github.com/user-attachments/assets/5db32c1b-9bc2-4068-b978-cc9f921d24fd" />
-
+<img width="1142" height="637" alt="image" src="https://github.com/user-attachments/assets/cad500cb-1a95-47f2-a35e-8cc72f07b13c" />
 
 <br><br>
 <h3>📈 Dashboard Features</h3>
